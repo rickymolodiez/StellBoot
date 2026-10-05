@@ -34,6 +34,10 @@ If the kernel was bigger, more boot sectors can be added by editing the `mov al,
 - [OSDEV Wiki: Segmentation](https://wiki.osdev.org/Segmentation)
 - Claude AI was used for debugging stack and boot logic.
 
+## License
+
+MIT
+
 
 
 
