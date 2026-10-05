@@ -1,0 +1,9 @@
+
+# Build output
+*.o
+*.bin
+os.img
+ 
+# OS junk
+.DS_Store
+ 
