@@ -1,5 +1,5 @@
 ## StellBoot
- StellBoot is a A 2-stage bootloader written in x86 NASM and virtualized with QEMU. It is named after my cat Stella for convenience.
+ StellBoot is a A BIOS bootloader written in x86 NASM and virtualized with QEMU. It is named after my cat Stella for convenience.
 
  This repository contains the building instructions in case you would like to run it yourself or fork it.
  Note: although this is x86 NASM and uses ELF, it is virtualized in QEMU using an ARM64 M4 chip, on MacOS Sequoia Version 15.2 (24C2101). Although this should not matter much, as QEMU virtualizes in x86. I am still including it for documentation purposes. It is easy enough to change any QEMU settings in the `build.sh` file included. 
